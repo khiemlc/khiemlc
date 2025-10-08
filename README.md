@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uptimum</h1>
+<h1 align="center">Hi 👋, I'm Khiemlc</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
 ## About Me
@@ -14,8 +14,6 @@
         - 😄 Pronouns: he/him<br>
         - ⚡ Fun fact: I love hiking and exploring new places!<br>
     </p>
-    <!-- Your SVG image here -->
-    <!-- <img src="your-image.svg" alt="Your SVG Image" style="width: 200px; height: auto;"> -->
 </div>
 
 ## What I Do
@@ -40,10 +38,7 @@ Here are some of the technologies and tools I work with:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
